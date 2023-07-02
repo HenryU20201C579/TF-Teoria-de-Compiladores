@@ -157,4 +157,7 @@ Para confirmar el funcionamiento del analizador y el compilador, se realizaron l
   
 #### 6. Bibliografía <a name="data6"></a>
 * Academia Lab. (s.f.). Lenguaje de Programación Esotérico. Disponible en: https://academia-lab.com/enciclopedia/lenguaje-de-programacion-esoterico/
-* Jeffery, C. (2021). Build your own programming language. Packt Publishing. Disponible en: https://learning.oreilly.com/library/view/build-your-own/9781800204805/?ar= 
+* Jeffery, C. (2021). Build your own programming language. Packt Publishing. Disponible en: https://learning.oreilly.com/library/view/build-your-own/9781800204805/?ar=
+
+#### 7. Anexos <a name="data7"></a>
+[Video de exposición](link)
