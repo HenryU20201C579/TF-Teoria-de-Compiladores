@@ -150,6 +150,7 @@ int main() {
 Para confirmar el funcionamiento del analizador y el compilador, se realizaron las diferentes pruebas. Estas incluyen operaciones matemáticas básicas ([multiplicación](/multiplicar.cpp), [factoriales](/factorial.bf)), la [impresión de un texto](/profe.bf), y funciones con algo de complejidad y recursividad, como imprimir un arreglo de numeros de forma [ascendete]() o [descente](/descendente.cpp) o la sucesión de [fibonacci](/fibonacci.bf).
 
 <img src="/assets/Pruebas.jpeg" style="height: 500px; width:500px"/>
+
 #### 5. Conclusiones <a name="data5"></a>
 
 #### 6. Bibliografía <a name="data6"></a>
