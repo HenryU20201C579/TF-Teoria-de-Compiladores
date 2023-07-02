@@ -12,7 +12,7 @@
 
 <p>Santisteban Cerna, Jose Mauricio - U201922760</p>
 <p>Diaz Huarcaya, Henry Josué - U20201c579</p>
-<p></p>
+<p>Contreras Inostroza, Eduardo Junior - U201414103</p>
 </div>
 
 
@@ -153,6 +153,8 @@ Para confirmar el funcionamiento del analizador y el compilador, se realizaron l
 
 #### 5. Conclusiones <a name="data5"></a>
 
+* LLVM demuestra ser una poderosa herramienta en el campo de la compilación, brindando flexibilidad, eficiencia y potencial para el desarrollo de lenguajes y tecnologías de vanguardia. El estudio de lenguajes como Brainfuck en combinación con LLVM permite explorar aspectos específicos del diseño de lenguajes y comprensión de máquinas de estado, aportando un enfoque analítico y académico valioso a la investigación en este campo.
+  
 #### 6. Bibliografía <a name="data6"></a>
 * Academia Lab. (s.f.). Lenguaje de Programación Esotérico. Disponible en: https://academia-lab.com/enciclopedia/lenguaje-de-programacion-esoterico/
 * Jeffery, C. (2021). Build your own programming language. Packt Publishing. Disponible en: https://learning.oreilly.com/library/view/build-your-own/9781800204805/?ar= 
