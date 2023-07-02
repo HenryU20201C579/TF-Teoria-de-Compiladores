@@ -29,6 +29,7 @@
 4. [Pruebas](#data4)
 5. [Conclusiones](#data5)
 6. [Bibliografia](#data6)
+7. [Anexos](#data7)
 
 #### 1. Introducción <a name="data1"></a>
 Dentro del mundo de los lenguajes de programación existen varios ejemplos llenos de originalidad en cuanto al comportamiento y compilación de su sintexis. Uno de estos referentes es el lenguaje BrainFuck, el cual se compone unicamente de 8 caracteres utilizados para comandar las diferentes funciones que este puede realizar al igual que en cualquier otro lenguaje de programación. Dado que este tipo de lenguajes existen para poner a prueba los compiladores ya existentes, el presente trabajo tiene como objetivo replicar los resultados y la sintaxis detrás de este lenguaje de programación mediante un nuevo compilador.
