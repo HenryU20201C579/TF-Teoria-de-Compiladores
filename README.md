@@ -161,4 +161,4 @@ Para confirmar el funcionamiento del analizador y el compilador, se realizaron l
 * Jeffery, C. (2021). Build your own programming language. Packt Publishing. Disponible en: https://learning.oreilly.com/library/view/build-your-own/9781800204805/?ar=
 
 #### 7. Anexos <a name="data7"></a>
-[Video de exposición](https://www.youtube.com/watch?v=R-pAsDtIsqY)https://www.youtube.com/watch?v=R-pAsDtIsqY)
+[Video de exposición](https://www.youtube.com/watch?v=R-pAsDtIsqY)
