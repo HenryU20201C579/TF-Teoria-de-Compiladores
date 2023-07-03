@@ -51,7 +51,7 @@ En una primera instancia hay que especificar cómo funciona la lógica semántic
 | [| Si el elemento actual es cero, salta al correspondiente comando ], sino continua con el comando|
 | ]| Si el elemento actual es cero, continua con el siguiente comando, sino salta a ] |
 
-Una vez comprendido este apartado, se puede proseguir al desarrollo del programa. Primeramente se realizó el siguiente [tutorial](/paso%20a%20paso.docx) para mejor comprensión de cómo utilizar el compilador.
+Una vez comprendido este apartado, se puede proseguir al desarrollo del programa. En primer lugar, se realizó el siguiente [tutorial](/paso%20a%20paso.docx) para mejor comprensión de cómo utilizar el compilador.
 ````pyton
 1.	Configuración del entorno de desarrollo:
 	- Asegúrate de tener instalado CMake y LLVM en tu sistema.
